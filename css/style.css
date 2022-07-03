@@ -1,5 +1,5 @@
 /*                                     Author: Ing Carlos Allen                                   */
-/*                                   https://github.com/CarlosAllen93                            */
+/*                                   https://github.com/allencarlosdev                          */
 /*                                 contact : allencarlosDev@gmail.com                           */
 
 /* color variables */
@@ -152,7 +152,7 @@ body {
 
 .home__video {
     z-index: var(--z-index10);
-    height: 550px;
+    height: 700px;
     grid-column: 1/13;
     grid-row: 2/13;
 }
@@ -171,6 +171,7 @@ body {
 .home__btn {
     display: block;
     z-index: var(--z-index20);
+    align-self: center;
     margin-left: auto;
     margin-right: auto;
     padding: 10px 80px;
